@@ -1,0 +1,36 @@
+.card-img-overlay{
+    opacity: 0.5;
+    padding: 30px;
+    border: solid 50px;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-style: oblique;
+    color: black;
+}
+.form-group{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+  }
+p{
+    color: white;
+    font-weight: 600;
+    font-size: 28px;
+    font-family: 'Quattrocento', serif;;
+}
+.card-text{
+    float: inline-start;
+}
+input[type="radio"] {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+h2{
+    color: red;
+    border: dotted 5px olive;
+    padding: 3px;
+}
+img{
+height: 100%;
+}
