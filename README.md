@@ -64,6 +64,10 @@ Bootstrap
 
 For any contributions, kindly reach me on immaculate.wanjiku@student.moringaschool.com
 
+##Link to live site
+
+https://immaq.github.io/Akan-naming/
+
 ## License and Copyright information.
 
 * Copyright (c) 2023 **Immaculate Ngugi**
